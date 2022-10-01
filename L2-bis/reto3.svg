@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="279.39999mm"
+   height="431.79999mm"
+   viewBox="0 0 279.39999 431.79999"
    version="1.1"
    id="svg6136"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="467.39758"
-     inkscape:cy="405.52574"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="772.1606"
+     inkscape:cy="459.61941"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
@@ -35,82 +35,82 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
-       position="48.097685,201.0283"
+       position="48.097683,335.82832"
        orientation="0,-1"
        id="guide6167"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="124.69015,171.0283"
+       position="124.69015,305.82832"
        orientation="0,-1"
        id="guide6171"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="59.126812,200.48609"
+       position="59.12681,335.28612"
        orientation="1,0"
        id="guide6175"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="52.871769,220.30636"
+       position="52.871767,355.10642"
        orientation="1,0"
        id="guide6968"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="179.66902,200.48609"
+       position="179.669,335.28612"
        orientation="1,0"
        id="guide6972"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="172.82303,141.0283"
+       position="172.82301,275.82832"
        orientation="0,-1"
        id="guide6974"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="99.757057,98.446767"
+       position="99.757054,233.24679"
        orientation="1,0"
        id="guide8662"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="57.085146,277.56398"
+       position="57.085144,412.36402"
        orientation="0,-1"
        id="guide2823"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="56.724815,276.3541"
+       position="56.724813,411.15412"
        orientation="0,-1"
        id="guide2936"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="58.242573,280.47938"
+       position="58.242571,415.27942"
        orientation="0,-1"
        id="guide2938"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="58.202969,276.96015"
+       position="58.202967,411.76012"
        orientation="0,-1"
        id="guide3521"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="57.096662,275.35493"
+       position="57.09666,410.15492"
        orientation="0,-1"
        id="guide5035"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="57.096662,276.02442"
+       position="57.09666,410.82442"
        orientation="1,0"
        id="guide5037"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="57.093185,278.56315"
+       position="57.093183,413.36312"
        orientation="0,-1"
        id="guide5039"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="51.352555,277.2698"
+       position="51.352553,412.06982"
        orientation="1,0"
        id="guide5097"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="29.670155,180.3394"
+       position="29.670154,296.51922"
        orientation="1,0"
        id="guide13449"
        inkscape:locked="false" />
@@ -121,43 +121,46 @@
        x="295.25394"
        y="140.78226"
        width="139.68649"
-       height="57.614896"
+       height="57.614895"
        id="rect2651" />
     <rect
-       x="291.93935"
+       x="291.93936"
        y="132.68509"
        width="162.16115"
-       height="39.418203"
+       height="39.418201"
        id="rect2645" />
     <rect
        x="281.6058"
        y="193.37128"
        width="121.13263"
-       height="42.848459"
+       height="42.848457"
        id="rect2639" />
   </defs>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path6131"
-       style="fill:#00ffff;stroke:#2b0000;stroke-width:1.08442"
-       d="M 29.66899 96.514006 A 29.457788 29.45779 0 0 0 0.21135661 125.97164 A 29.457788 29.45779 0 0 0 29.66899 155.42927 L 179.66914 155.42927 A 29.457788 29.45779 0 0 0 209.12677 125.97164 A 29.457788 29.45779 0 0 0 179.66914 96.514006 L 29.66899 96.514006 z " />
-    <ellipse
-       style="fill:#ffffff;stroke:#2b0000;stroke-width:0.393161"
-       id="path6347"
-       cx="179.66902"
-       cy="125.9717"
-       rx="9.8034201"
-       ry="9.8034191" />
-    <ellipse
-       style="fill:#ffffff;stroke:#2b0000;stroke-width:0.393161"
-       id="path6347-9"
-       cx="29.669024"
-       cy="125.9717"
-       rx="9.8034201"
-       ry="9.8034191" />
+    <g
+       id="g20244">
+      <path
+         id="path6131"
+         style="fill:#00ffff;stroke:#2b0000;stroke-width:1.08442"
+         d="M 29.66899,96.514006 A 29.457788,29.45779 0 0 0 0.21135661,125.97164 29.457788,29.45779 0 0 0 29.66899,155.42927 h 150.00015 a 29.457788,29.45779 0 0 0 29.45763,-29.45763 29.457788,29.45779 0 0 0 -29.45763,-29.457634 z" />
+      <ellipse
+         style="fill:#ffffff;stroke:#2b0000;stroke-width:0.393161"
+         id="path6347"
+         cx="179.66902"
+         cy="125.9717"
+         rx="9.8034201"
+         ry="9.8034191" />
+      <ellipse
+         style="fill:#ffffff;stroke:#2b0000;stroke-width:0.393161"
+         id="path6347-9"
+         cx="29.669024"
+         cy="125.9717"
+         rx="9.8034201"
+         ry="9.8034191" />
+    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.79421236,0,0,0.96047036,-179.59792,-65.757503)"
@@ -165,7 +168,7 @@
        style="white-space:pre;shape-inside:url(#rect2639);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="281.60547"
          y="203.98828"
-         id="tspan17304">20mm</tspan></text>
+         id="tspan21350">20mm</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.67498191,0,0,0.9676694,38.712739,-23.266488)"
@@ -173,7 +176,7 @@
        style="white-space:pre;shape-inside:url(#rect2645);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="291.93945"
          y="143.30273"
-         id="tspan17306">60mm
+         id="tspan21352">60mm
 </tspan></text>
     <text
        xml:space="preserve"
@@ -182,10 +185,10 @@
        style="white-space:pre;shape-inside:url(#rect2651);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="295.25391"
          y="151.40039"
-         id="tspan17308">150mm</tspan></text>
+         id="tspan21354">150mm</tspan></text>
     <g
        id="g8191"
-       transform="matrix(0,1.4408353,-1.1285036,0,52.28486,42.603213)">
+       transform="matrix(0,1.4408353,-1.1285036,0,52.28486,42.603215)">
       <g
          id="g7402"
          transform="matrix(-1,0,0,1,110.52574,0)">
