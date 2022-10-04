@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="772.1606"
-     inkscape:cy="459.61941"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="654.78088"
+     inkscape:cy="449.01281"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
@@ -135,6 +135,82 @@
        width="121.13263"
        height="42.848457"
        id="rect2639" />
+    <marker
+       style="overflow:visible"
+       id="marker7288"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7286" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7206"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7204" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7288-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7286-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7206-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7204-3" />
+    </marker>
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -168,7 +244,7 @@
        style="white-space:pre;shape-inside:url(#rect2639);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="281.60547"
          y="203.98828"
-         id="tspan21350">20mm</tspan></text>
+         id="tspan15185">20mm</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.67498191,0,0,0.9676694,38.712739,-23.266488)"
@@ -176,7 +252,7 @@
        style="white-space:pre;shape-inside:url(#rect2645);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="291.93945"
          y="143.30273"
-         id="tspan21352">60mm
+         id="tspan15187">60mm
 </tspan></text>
     <text
        xml:space="preserve"
@@ -185,141 +261,18 @@
        style="white-space:pre;shape-inside:url(#rect2651);display:inline;fill:#000000;stroke:#2b1100;stroke-linecap:square"><tspan
          x="295.25391"
          y="151.40039"
-         id="tspan21354">150mm</tspan></text>
-    <g
-       id="g8191"
-       transform="matrix(0,1.4408353,-1.1285036,0,52.28486,42.603215)">
-      <g
-         id="g7402"
-         transform="matrix(-1,0,0,1,110.52574,0)">
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878" />
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153" />
-      </g>
-      <g
-         id="g7402-5"
-         transform="translate(5.1966988,-0.00111227)">
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878-35" />
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3-6" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095-2" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153-9" />
-      </g>
-    </g>
-    <g
-       id="g8191-2"
-       transform="matrix(0,4.5948856,-1.103618,0,253.90106,-139.99644)"
-       style="fill:#000000;stroke:#000000">
-      <g
-         id="g7402-89"
-         transform="matrix(-1,0,0,1,110.52574,0)"
-         style="fill:#000000;stroke:#000000">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878-73" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3-61" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095-29" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153-3" />
-      </g>
-      <g
-         id="g7402-5-1"
-         transform="translate(5.1966988,-0.00111227)"
-         style="fill:#000000;stroke:#000000">
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878-35-9" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3-6-4" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095-2-7" />
-        <path
-           style="fill:#000000;stroke:#000000;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153-9-8" />
-      </g>
-    </g>
-    <g
-       id="g8191-1"
-       transform="matrix(-11.449678,0,0,-0.83756459,767.19676,97.546608)">
-      <g
-         id="g7402-8"
-         transform="matrix(-1,0,0,1,110.52574,0)">
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878-7" />
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3-9" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095-20" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153-2" />
-      </g>
-      <g
-         id="g7402-5-3"
-         transform="translate(5.1966988,-0.00111227)">
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,19.43602 h 5.775346"
-           id="path2878-35-7" />
-        <path
-           style="fill:#000000;stroke:#2b1100;stroke-width:0.264583;stroke-linecap:square"
-           d="m 51.317839,20.645906 h 5.775346"
-           id="path2878-3-6-5" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.264583;stroke-linecap:square"
-           d="m 57.096662,20.645901 v 0.999169 l 2.030148,-1.60552 -2.030148,-1.6027 v 0.99917 z"
-           id="path5095-2-9" />
-        <path
-           style="fill:#280b0b;stroke:#280b0b;stroke-width:0.265288;stroke-linecap:square"
-           d="m 51.318192,19.436373 v 1.20918 h 5.77464 v -1.20918 z"
-           id="path5153-9-2" />
-      </g>
-    </g>
+         id="tspan15189">150mm</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;stroke:#2b0000;stroke-width:0.48148;stroke-linecap:square;marker-start:url(#marker7288);marker-end:url(#marker7206)"
+       d="M 31.381897,81.430715 H 177.95104"
+       id="path6686" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#2b0000;stroke-width:0.521143;stroke-linecap:square;stroke-dasharray:none;marker-start:url(#marker7288-7);marker-end:url(#marker7206-9)"
+       d="m 29.669024,118.04011 v 15.8631"
+       id="path6686-6" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#2b0000;stroke-width:0.954603;stroke-linecap:square;stroke-dasharray:none;marker-start:url(#marker7288-7);marker-end:url(#marker7206-9)"
+       d="M 229.61505,99.358924 V 152.58439"
+       id="path14365" />
   </g>
 </svg>
